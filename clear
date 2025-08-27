@@ -1,0 +1,32 @@
+[33m1ef007a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{0}: checkout: moving from ac158a206d9c7ef50316dc44354831d94f6ac004 to main
+[33mac158a2[m HEAD@{1}: commit: footer visit
+[33m9fd1f46[m HEAD@{2}: commit: edit dikit
+[33md223052[m HEAD@{3}: commit: edit dikit
+[33mc1c2e9c[m HEAD@{4}: commit: Nambahin fitur contact form + slider + integrasi Filament
+[33m95204ba[m HEAD@{5}: commit: update kolom pdf
+[33mb9784ef[m HEAD@{6}: commit: update kolom pdf
+[33m12a35b0[m HEAD@{7}: reset: moving to origin/main
+[33m9e96cf3[m HEAD@{8}: commit: update gw
+[33mb652b07[m HEAD@{9}: reset: moving to origin/main
+[33m1ef007a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{10}: reset: moving to origin/main
+[33m1a5259c[m HEAD@{11}: checkout: moving from main to 1a5259c
+[33m1ef007a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{12}: reset: moving to origin/main
+[33m468d2bb[m HEAD@{13}: commit: Update ArticleResource untuk upload PDF
+[33mbbb2188[m HEAD@{14}: commit: ALL
+[33mf62c671[m HEAD@{15}: commit: ALL
+[33m63e8d1f[m HEAD@{16}: pull: Fast-forward
+[33m1a5259c[m HEAD@{17}: reset: moving to HEAD
+[33m1a5259c[m HEAD@{18}: commit: all backend
+[33mc7fd4da[m HEAD@{19}: commit: all backend
+[33mc33922e[m HEAD@{20}: commit: all backend
+[33m21465f1[m HEAD@{21}: commit: all backend
+[33m08b21a8[m HEAD@{22}: commit (merge): Update
+[33mecbe846[m HEAD@{23}: rebase (abort): returning to refs/heads/main
+[33maeca079[m HEAD@{24}: pull origin main --rebase (start): checkout aeca079f7b3addb39cc520319ca4237d3ffddd4e
+[33mecbe846[m HEAD@{25}: commit: update: tambah seeder, perbaikan konten
+[33m3a44eb5[m HEAD@{26}: commit: update semua file
+[33mf1a6605[m HEAD@{27}: commit: update
+[33m128d5aa[m HEAD@{28}: commit: update
+[33m1232ca1[m HEAD@{29}: commit: Initial commit
+[33m06959fd[m HEAD@{30}: Branch: renamed refs/heads/master to refs/heads/main
+[33m06959fd[m HEAD@{32}: commit (initial): first commit
